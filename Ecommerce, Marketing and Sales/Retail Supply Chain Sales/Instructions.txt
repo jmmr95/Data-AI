@@ -1,0 +1,35 @@
+About Dataset
+Dataset Title:
+Retail Supply Chain Sales Dataset
+
+Dataset Description:
+This dataset provides detailed information on retail orders, including sales performance, customer details, and shipment logistics. It is accompanied by a calendar reference table to enable time-series analysis and other temporal insights.
+
+Main Dataset (Sheet: Retails Order Full Dataset):
+
+Row Count: 9,994 rows
+Column Count: 23 columns
+Key Columns:
+
+Order ID, Order Date, Ship Date, Ship Mode – Details about individual orders and shipment schedules.
+Customer ID, Customer Name, Segment – Information on customers and their purchasing categories.
+Product ID, Category, Sub-Category, Product Name – Information on the products sold.
+Sales, Quantity, Discount, Profit – Key performance metrics for each order.
+Region, State, City, Postal Code – Geographic details.
+Returned – Indicates if the product was returned.
+Retail Sales People – Relevant personnel involved in the sales process.
+Supporting Dataset (Sheet: Calendar Table):
+
+Row Count: 1,826 rows
+Column Count: 12 columns
+Key Columns:
+
+Date, Year, Quarter, Month, Week of Year, Day of Week – Temporal dimensions for analyzing sales over time.
+Quarter (Q), Quarter & Year, Month & Year, Day Name – Additional formatted temporal attributes for convenience.
+Usage:
+This dataset is ideal for:
+
+Analyzing retail sales performance and profitability.
+Identifying customer trends and product preferences.
+Studying the impact of geographic and temporal factors on sales.
+Developing predictive models for inventory management and demand forecasting.
