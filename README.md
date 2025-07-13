@@ -8,7 +8,7 @@ Los proyectos abordan problemas reales en distintas industrias como:
 - 🏦 **Banca y Finanzas**: análisis de clientes, rentabilidad, segmentación.
 - 🏭 **Manufactura**: eficiencia operativa, predicción de estados de maquinaria con ML.
 - 🏥 **Salud**: visualización de indicadores clínicos.
-- 🎓 **Educación**: análisis estadístico de métricas educativas globales (en R).
+- 🎓 **Educación**: análisis estadístico de métricas educativas globales.
 
 Además, incluyo notebooks en **Kaggle (R)** y proyectos con modelos predictivos en **Python (scikit-learn, XGBoost)** para detección de patrones, clasificación y segmentación de datos.
 
