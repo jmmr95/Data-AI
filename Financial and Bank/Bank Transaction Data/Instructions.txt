@@ -1,0 +1,31 @@
+About Dataset
+Context
+Our main motive was to build analytical tool:
+
+Which would categorise the similar transactions on the basis of narrations
+
+Which can extract the bank names or the short form of the bank names using the IFSC codes
+
+Which can knock off the same amount transactions with Debit and Credit effect on same date in two different accounts and matching narrations.
+
+Content
+Check out my work here. Our another objective was to build a tool to categorize the narrations appearing in the bank statements into a logical manner. These are consolidated and extracted bank account statements of various bank accounts.
+
+Account No. - This represents the account number involved in transaction.
+
+Date - Date of transaction
+
+Transaction Details - Transaction narrations in bank statements
+
+Cheque No. - This indicates the cheque number
+
+Value Date - Date of completion of transaction
+
+Withdrawal Amount - Indicates the amount withdrawn
+
+Deposit Amount - Indicates the amount deposited
+
+Balance Amount - Current balance of account
+
+Inspiration
+We want to detect fraud transactions and money laundering. It is the concealment of the origins of illegally obtained money, typically by means of transfers involving foreign banks or legitimate businesses.
