@@ -1,4 +1,4 @@
-# 📊 Data Analytics & ML Portfolio – Joan Moreno
+# 📊 Data & IA Portfolio
 
 Este repositorio recopila mis proyectos como Data Analyst, combinando análisis exploratorio de datos (EDA), consultas SQL, visualización de KPIs en Power BI y Tableau, y modelos predictivos en Python y R.
 
