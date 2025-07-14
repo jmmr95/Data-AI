@@ -24,5 +24,5 @@ Además, incluyo notebooks en **Kaggle (R)** y proyectos con modelos predictivos
 
 Este portafolio está en evolución e incluirá próximamente proyectos con enfoques de **inteligencia artificial aplicada**
 
-**Por facilidad todos los proyectos se muestran en notebooks .ipynb, esto para obtener una visualizacion rapida desde GitHub. Las sentencias SQL y los dashboards se han realizado de esta misma forma, dando asi para los tableros en Power BI y Tablue su enlace publico dentro de cada notebook.**
+**Por facilidad todos los proyectos se muestran en notebooks .ipynb, esto para obtener una visualizacion rapida desde GitHub. Las sentencias SQL y los dashboards se han realizado de esta misma forma, dando asi para los tableros en Power BI y Tableau su enlace publico dentro de cada notebook.**
 
